@@ -1,0 +1,16 @@
+{
+  "links": [
+    {
+      "site": "wwwwwwwww",
+      "id": 1
+    },
+    {
+      "site": "https://www.youtube.com",
+      "id": 2
+    },
+    {
+      "site": "https://stackoverflow.com/questions/39904884/form-input-using-redux-form-not-updating",
+      "id": 3
+    }
+  ]
+}
